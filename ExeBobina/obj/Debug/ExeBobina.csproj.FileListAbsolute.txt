@@ -8,3 +8,13 @@ c:\users\user\source\repos\ExeBobina\ExeBobina\obj\Debug\ExeBobina.csproj.Genera
 c:\users\user\source\repos\ExeBobina\ExeBobina\obj\Debug\ExeBobina.csproj.CoreCompileInputs.cache
 c:\users\user\source\repos\ExeBobina\ExeBobina\obj\Debug\ExeBobina.exe
 c:\users\user\source\repos\ExeBobina\ExeBobina\obj\Debug\ExeBobina.pdb
+C:\Users\Denny Erikson\Documents\Visual Studio 2017\Projects\ExeBobinaFacul\ExeBobinaFacul\ExeBobina\bin\Debug\ExeBobina.exe.config
+C:\Users\Denny Erikson\Documents\Visual Studio 2017\Projects\ExeBobinaFacul\ExeBobinaFacul\ExeBobina\bin\Debug\ExeBobina.exe
+C:\Users\Denny Erikson\Documents\Visual Studio 2017\Projects\ExeBobinaFacul\ExeBobinaFacul\ExeBobina\bin\Debug\ExeBobina.pdb
+C:\Users\Denny Erikson\Documents\Visual Studio 2017\Projects\ExeBobinaFacul\ExeBobinaFacul\ExeBobina\obj\Debug\ExeBobina.csprojAssemblyReference.cache
+C:\Users\Denny Erikson\Documents\Visual Studio 2017\Projects\ExeBobinaFacul\ExeBobinaFacul\ExeBobina\obj\Debug\ExeBobina.Form1.resources
+C:\Users\Denny Erikson\Documents\Visual Studio 2017\Projects\ExeBobinaFacul\ExeBobinaFacul\ExeBobina\obj\Debug\ExeBobina.Properties.Resources.resources
+C:\Users\Denny Erikson\Documents\Visual Studio 2017\Projects\ExeBobinaFacul\ExeBobinaFacul\ExeBobina\obj\Debug\ExeBobina.csproj.GenerateResource.cache
+C:\Users\Denny Erikson\Documents\Visual Studio 2017\Projects\ExeBobinaFacul\ExeBobinaFacul\ExeBobina\obj\Debug\ExeBobina.csproj.CoreCompileInputs.cache
+C:\Users\Denny Erikson\Documents\Visual Studio 2017\Projects\ExeBobinaFacul\ExeBobinaFacul\ExeBobina\obj\Debug\ExeBobina.exe
+C:\Users\Denny Erikson\Documents\Visual Studio 2017\Projects\ExeBobinaFacul\ExeBobinaFacul\ExeBobina\obj\Debug\ExeBobina.pdb
