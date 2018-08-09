@@ -1,0 +1,10 @@
+c:\users\user\source\repos\ExeBobina\ExeBobina\bin\Debug\ExeBobina.exe.config
+c:\users\user\source\repos\ExeBobina\ExeBobina\bin\Debug\ExeBobina.exe
+c:\users\user\source\repos\ExeBobina\ExeBobina\bin\Debug\ExeBobina.pdb
+c:\users\user\source\repos\ExeBobina\ExeBobina\obj\Debug\ExeBobina.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\ExeBobina\ExeBobina\obj\Debug\ExeBobina.Form1.resources
+c:\users\user\source\repos\ExeBobina\ExeBobina\obj\Debug\ExeBobina.Properties.Resources.resources
+c:\users\user\source\repos\ExeBobina\ExeBobina\obj\Debug\ExeBobina.csproj.GenerateResource.Cache
+c:\users\user\source\repos\ExeBobina\ExeBobina\obj\Debug\ExeBobina.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\ExeBobina\ExeBobina\obj\Debug\ExeBobina.exe
+c:\users\user\source\repos\ExeBobina\ExeBobina\obj\Debug\ExeBobina.pdb
